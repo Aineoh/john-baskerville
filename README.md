@@ -6,4 +6,4 @@ john-baskerville
 
 [Version 3](http://aineoh.github.io/john-baskerville/version-3.html)
 
-[Version 4](https://github.com/Aineoh/john-baskerville/blob/gh-pages/version-4.html)
+[Version 4](http://aineoh.github.io/john-baskerville/version-4.html)
