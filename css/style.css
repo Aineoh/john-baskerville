@@ -1,12 +1,12 @@
 
         
-        body{
-        background-color: #E9E9E9; 
-        font-family: 'Libre Baskerville', serif;
-        color: #2A363B;
-        }
+body{
+    font-family: 'Libre Baskerville', serif;
+    background-color: #E9E9E9; 
+    color: #2A363B;
+    }
         
-        h1{
+h1{
         font-size: 50px;
         text-transform: uppercase;
         letter-spacing: 20px; 
