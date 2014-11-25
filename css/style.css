@@ -64,4 +64,8 @@ h1{
         display: block;
         margin: 0 auto;
         }
-    
+        
+        blockquote {
+        border: double;
+        padding: 10px;
+        }
