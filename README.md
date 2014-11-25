@@ -9,3 +9,5 @@ john-baskerville
 [Version 4](http://aineoh.github.io/john-baskerville/version-4.html)
 
 [Version 5](http://aineoh.github.io/john-baskerville/version-5.html)
+
+[Version 6](http://aineoh.github.io/john-baskerville/version-6.html)
