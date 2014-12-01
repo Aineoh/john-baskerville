@@ -33,7 +33,6 @@ h1{
         font-style: italic;
         font-size: 18px;
         text-align: center;
-        padding: 10px;
         }
         
         .subtitle {
@@ -71,30 +70,14 @@ h1{
         img {
         display: block;
         margin: 0 auto;
-        padding: 30px;
-        max-width: 100%; /* max-width lets you size the image to fit into the parent container */
-        }
-
-        p{
         padding: 10px;
         }
         
         blockquote {
         border: double;
-        padding: 10px;
-        margin: 30px;
+        padding: 30px;
         }
 
         small {
         font-size: 10px;
-        color: grey;
-        line-height: 10px;
-        }
-
-/*layout*/
-
-        article {
-        min-width: 300px;
-        max-width: 760px;
-        margin: auto;
         }
