@@ -12,3 +12,5 @@ john-baskerville
 
 [Version 6](http://aineoh.github.io/john-baskerville/version-6.html)
 
+[Version 7](http://aineoh.github.io/john-baskerville/version-7.html)
+
